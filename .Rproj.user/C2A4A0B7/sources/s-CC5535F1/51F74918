@@ -1,0 +1,26 @@
+{
+    "id": "51F74918",
+    "path": "C:/Users/florianb/privacydashboard_rnotebook/cleanup.R",
+    "project_path": "cleanup.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1655903994966.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1655904851,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1655904851891,
+    "read_only": false,
+    "read_only_alternatives": []
+}
